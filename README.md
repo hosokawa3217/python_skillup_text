@@ -1,0 +1,2 @@
+# python_skillup_text
+Python3スキルアップテキストを復習する課題
