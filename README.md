@@ -29,5 +29,9 @@ create New Blank Jupyter Notebook を選択する
 ##### 5.githubにプッシュする
   * GUIで行う場合　
     その他の操作（・・・）からプッシュ選択する
+    その際、GitHUbへのログインが必要の場合がある
   * コマンドで行う場合 
 　　git push
+
+#### 6.Githubにアップロードされているか確認する
+  [github](https://github.com/)
